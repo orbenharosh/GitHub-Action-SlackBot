@@ -1,0 +1,18 @@
+{
+  "overrideRules": "NO_OVERRIDE",
+  "scopePriorityFunnel": [
+    "REGION",
+    "ACCOUNT"
+  ],
+  "rules": {
+    "REGION": {
+      "rules": {
+      }
+    },
+    "ACCOUNT": {
+      "rules": {
+       "666"
+      }
+    }
+  }
+}
